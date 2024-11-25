@@ -15,7 +15,7 @@ jobs:
     - uses: github/codeql-action/init@v3
       with:
         languages: csharp
-        build-mode: manual
+        build-mode: none
     
     
     - run: dotnet build
