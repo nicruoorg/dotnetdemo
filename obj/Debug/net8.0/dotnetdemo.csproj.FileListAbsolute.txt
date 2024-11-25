@@ -1,0 +1,15 @@
+C:\work\dotnetdemo\bin\Debug\net8.0\dotnetdemo.exe
+C:\work\dotnetdemo\bin\Debug\net8.0\dotnetdemo.deps.json
+C:\work\dotnetdemo\bin\Debug\net8.0\dotnetdemo.runtimeconfig.json
+C:\work\dotnetdemo\bin\Debug\net8.0\dotnetdemo.dll
+C:\work\dotnetdemo\bin\Debug\net8.0\dotnetdemo.pdb
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.AssemblyInfoInputs.cache
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.AssemblyInfo.cs
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.csproj.CoreCompileInputs.cache
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.sourcelink.json
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.dll
+C:\work\dotnetdemo\obj\Debug\net8.0\refint\dotnetdemo.dll
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.pdb
+C:\work\dotnetdemo\obj\Debug\net8.0\dotnetdemo.genruntimeconfig.cache
+C:\work\dotnetdemo\obj\Debug\net8.0\ref\dotnetdemo.dll
